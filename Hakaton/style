@@ -1,0 +1,26 @@
+QWidget{
+    background-color: #51a1e2;
+    font-family: Arial, comic;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+QPushButton{
+    background-color: #4d7aa0;
+    color: azure;
+    font-weight: bold;
+    padding: 9px;
+    border-radius: 5px;
+    border: 1.5px solid;
+}
+
+QPushButton:hover{
+    background-color: rgb(0, 140, 255);
+}
+
+QListWidget{
+    background-color: rgb(125, 170, 255);
+    border: 1px solid;
+    padding: 5px;
+    color: black;
+}
